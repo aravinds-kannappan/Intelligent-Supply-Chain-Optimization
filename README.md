@@ -1,10 +1,5 @@
-# 🔗 Intelligent Supply Chain Optimization System
-
-> **Advanced Data Science Portfolio Project for Apple ADSP Program**
-
-A comprehensive, production-ready supply chain optimization platform that demonstrates advanced data science, machine learning, and business intelligence capabilities. Built to showcase the technical skills required for Apple's Applied Data Science Program (ADSP).
-
-## 🎯 Project Overview
+# Intelligent Supply Chain Optimization System
+##  Project Overview
 
 This project addresses critical supply chain challenges at enterprise scale, similar to those faced by Apple and other FAANG companies. It combines sophisticated data modeling, machine learning algorithms, and real-time analytics to optimize supplier relationships, demand forecasting, and logistics operations.
 
@@ -14,7 +9,7 @@ This project addresses critical supply chain challenges at enterprise scale, sim
 - **Logistics Optimization**: Optimize transportation routes and costs while maintaining service levels
 - **Performance Analytics**: Provide real-time insights for strategic decision-making
 
-## 🏗️ Architecture & Technology Stack
+## Architecture & Technology Stack
 
 ### Core Technologies
 - **Python**: Primary programming language for all ML and analytics
@@ -45,7 +40,7 @@ This project addresses critical supply chain challenges at enterprise scale, sim
   - Schema optimization
   - Performance indexing
 
-## 📊 Key Features
+## Key Features
 
 ### 1. Advanced Demand Forecasting
 - **XGBoost-based model** with 85%+ accuracy
@@ -71,7 +66,7 @@ This project addresses critical supply chain challenges at enterprise scale, sim
 - **Risk assessment alerts** with actionable recommendations
 - **Mobile-responsive design** for executive access
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 ```bash
@@ -104,7 +99,7 @@ The system automatically generates realistic supply chain data including:
 - **5,000+ performance evaluations**
 - **8,000+ logistics shipments**
 
-## 📈 Business Impact & Results
+## Business Impact & Results
 
 ### Quantified Improvements
 - **Forecast Accuracy**: 85%+ (15% improvement over baseline)
@@ -118,7 +113,7 @@ The system automatically generates realistic supply chain data including:
 - Recommended **5 strategic partnerships** for long-term growth
 - Developed **automated early warning system** for supply disruptions
 
-## 🔍 Technical Deep Dive
+## Technical Deep Dive
 
 ### Machine Learning Models
 
@@ -182,31 +177,7 @@ supply-chain-optimization/
 ├── run_analysis.py        # Main analysis pipeline
 └── README.md             # This file
 ```
-
-## 🎓 Skills Demonstrated for Apple ADSP
-
-### Technical Qualifications Met
-✅ **Python Programming**: Advanced Python with pandas, scikit-learn, XGBoost  
-✅ **SQL Expertise**: Complex queries, CTEs, window functions, optimization  
-✅ **Machine Learning**: Multiple algorithms, model evaluation, hyperparameter tuning  
-✅ **Data Modeling**: Normalized schema, indexing, performance optimization  
-✅ **Big Data Concepts**: Simulated MapReduce patterns, data lake architecture  
-
-### Business Impact Demonstrated
-✅ **Problem Solving**: Translated ambiguous business problems into technical solutions  
-✅ **Stakeholder Communication**: Executive dashboards with clear, actionable insights  
-✅ **Decision Support**: Real-time analytics driving key business decisions  
-✅ **Risk Management**: Proactive identification and mitigation of supply chain risks  
-✅ **Cost Optimization**: Quantified savings opportunities through data-driven analysis  
-
-### Apple-Specific Relevance
-- **Global Supply Chain**: Multi-region supplier network similar to Apple's complexity
-- **Product Portfolio**: Consumer electronics categories (iPhone, MacBook, iPad)
-- **Seasonal Demand**: Holiday season patterns critical for Apple's business
-- **Quality Focus**: Rigorous supplier performance and quality metrics
-- **Sustainability**: Environmental impact tracking and carbon footprint optimization
-
-## 📊 Sample Outputs
+## Sample Outputs
 
 ### Executive Dashboard KPIs
 - **Total Suppliers**: 150 across 5 regions
@@ -222,7 +193,7 @@ supply-chain-optimization/
 4. **Tier 1 suppliers** demonstrate 12% better performance consistency
 5. **iPhone category** shows highest demand volatility (35% coefficient of variation)
 
-## 🚀 Deployment & Scalability
+## Deployment & Scalability
 
 ### Production Readiness
 - **Error Handling**: Comprehensive exception handling and logging
@@ -237,7 +208,7 @@ supply-chain-optimization/
 - **Dashboard**: Scalable Streamlit deployment with caching
 - **APIs**: RESTful endpoints for system integration
 
-## 🤝 Contributing
+## Contributing
 
 This project demonstrates production-ready code suitable for enterprise environments. Key development practices include:
 
@@ -245,14 +216,3 @@ This project demonstrates production-ready code suitable for enterprise environm
 - **Testing**: Unit tests for critical functions (expandable)
 - **Version Control**: Git-friendly structure with clear commit history
 - **Documentation**: Self-documenting code with business context
-
-## 📞 Contact
-
-**Project Author**: [Your Name]  
-**Purpose**: Apple ADSP Portfolio Demonstration  
-**LinkedIn**: [Your LinkedIn Profile]  
-**Email**: [Your Email]
-
----
-
-*This project showcases the advanced data science and engineering capabilities required for Apple's Applied Data Science Program, demonstrating real-world problem-solving skills at enterprise scale.*
