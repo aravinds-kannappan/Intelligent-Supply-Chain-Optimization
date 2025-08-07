@@ -1,7 +1,3 @@
-"""
-Advanced SQL analytics for supply chain insights
-Demonstrates complex SQL queries and data analysis techniques
-"""
 import pandas as pd
 import sqlite3
 from config.database_config import db_manager
